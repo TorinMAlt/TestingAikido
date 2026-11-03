@@ -156,6 +156,7 @@ The following images document the current Test Alpha hardware implementation.
 The following diagram shows the GPIO assignments and peripheral connections used by the current firmware.
 
 ![ESP32 UDA1334A Music Player Pinout](screenshots/pinout_LABELED.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FTorinMAlt%2FTestingAikido.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FTorinMAlt%2FTestingAikido?ref=badge_shield)
 
 ---
 
@@ -1162,6 +1163,9 @@ Third-party dependencies retain their respective licenses and terms.
 Users and contributors should review the licenses of all included dependencies before redistributing modified versions of the project.
 
 ---
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FTorinMAlt%2FTestingAikido.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FTorinMAlt%2FTestingAikido?ref=badge_large)
 
 ## 34. Disclaimer
 
